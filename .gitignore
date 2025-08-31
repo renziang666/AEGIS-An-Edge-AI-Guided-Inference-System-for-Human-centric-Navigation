@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+*.egg-info/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Cache files
+cache/
+.cache/
+
+# Operating System files
+.DS_Store
+Thumbs.db

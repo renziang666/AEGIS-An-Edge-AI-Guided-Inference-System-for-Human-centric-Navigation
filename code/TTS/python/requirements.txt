@@ -1,0 +1,6 @@
+numpy
+transformers
+WeTextProcessing
+pypinyin
+soundfile
+Cython

@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../vision"
+		},
+		{
+			"path": "../../../../../data/RAG_formal"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
