@@ -6,7 +6,7 @@ import os
 import re # 导入re模块用于清理HTML标签
 
 # 你的百度地图AK，保持不变
-BAIDU_AK = "vPcIiXRLrTNjzCPLg0u95sNybfCp64DT" # 请务必替换为你的实际AK
+BAIDU_AK = "" # 请务必替换为你的实际AK
 
 def address_to_coord(address: str):
     """将地址转换为百度地图坐标系经纬度"""

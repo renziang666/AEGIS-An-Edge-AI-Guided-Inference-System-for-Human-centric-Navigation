@@ -6,7 +6,7 @@ import re
 
 # --- 配置 ---
 # 这是你的百度API密钥。请务必替换为你的实际AK！
-BAIDU_AK = "vPcIiXRLrTNjzCPLg0u95sNybfCp64DT" # 请替换为你的真实AK！
+BAIDU_AK = "" # 请替换为你的真实AK！
 
 def summarize_transit_route(json_data):
     """
