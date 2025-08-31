@@ -176,7 +176,7 @@ qwen_vl/
 
 Developed by:
 
-* **Ziang Ren**, **Benhao Qing**, **Yunzhuo Yang**
+* **Ziang Ren**, **Benhao Qin**, **Yunzhuo Yang**
 
 Special thanks to **Prof. Hai Li** for invaluable guidance.
 

@@ -127,7 +127,7 @@ vision_clients.py
 
 ## Acknowledgments
 
-This work was implemented by **Ziang Ren, Benhao Qing, and Yunzhuo Yang**,
+This work was implemented by **Ziang Ren, Benhao Qin, and Yunzhuo Yang**,
 with special thanks to **Prof. Hai Li** for guidance and support.
 
 

@@ -140,7 +140,7 @@ asr-system/
 
 ## Acknowledgments
 
-This project was developed by **Ziang Ren, Benhao Qing, and Yunzhuo Yang**,
+This project was developed by **Ziang Ren, Benhao Qin, and Yunzhuo Yang**,
 with special thanks to **Prof. Hai Li** for guidance and support.
 
 

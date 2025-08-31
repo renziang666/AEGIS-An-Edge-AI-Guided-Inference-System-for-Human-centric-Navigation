@@ -226,7 +226,7 @@ If you find this project useful in your research or applications, please cite it
 ```bibtex
 @misc{AEGIS2025,
   title   = {AEGIS: An Edge-AI Guided Inference System for Human-centric Navigation},
-  author  = {Ren, Ziang and Qing, Benhao and Yang, Yunzhuo},
+  author  = {Ren, Ziang and Qin, Benhao and Yang, Yunzhuo},
   year    = {2025},
   note    = {GitHub repository},
   url     = {https://github.com/renziang666/AEGIS-An-Edge-AI-Guided-Inference-System-for-Human-centric-Navigation}
