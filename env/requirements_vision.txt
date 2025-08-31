@@ -1,0 +1,7 @@
+async-timeout==5.0.1
+dfss==1.10.2
+numpy==2.2.6
+opencv-python-headless==4.12.0.88
+pycocotools==2.0.10
+redis==6.2.0
+sophon-arm @ file:///home/linaro/sail/sophon-sail/python_wheels/soc_BM1684_BM1684X/libsophon-0.5.2_sophonmw-0.13.0/py310/sophon_arm-3.10.1-py3-none-any.whl#sha256=d85737d71eaa6e69e6e93dded652285e735c252c164feb94276ebfcc4147da40
